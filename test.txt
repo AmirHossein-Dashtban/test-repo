@@ -1,2 +1,3 @@
 A test file for the "test" branch.
 Mabye the branches merged sometime, somehow ;)
+Let's make a conflict!
