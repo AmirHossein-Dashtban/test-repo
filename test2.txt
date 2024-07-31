@@ -1,2 +1,4 @@
-Anither test!
-Let see :)
+Another test!
+Conflict!
+change this line in branch feature/something
+add this line from feature/something
