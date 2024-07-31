@@ -1,2 +1,3 @@
 Another test!
 Conflict!
+change this line in branch feature/something
