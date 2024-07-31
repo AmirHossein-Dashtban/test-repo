@@ -1,4 +1,4 @@
 Another test!
 Conflict!
-change this line in branch feature/something
-add this line from feature/something
+make change from branch feature/something2
+add this line from feature/something2
